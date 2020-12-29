@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piushvaish" alt="piushvaish" /> </p>
 
-- 🔭 I’m currently working on [AI For Healthcare](https://github.com/piushvaish/aiforhealthcare)
+- 🔭 I’m currently working on applying [deep learning](https://github.com/piushvaish/pytorch-notebooks) using Pytorch.
 
 - 👨‍💻 All of my projects are available at [https://github.com/piushvaish](https://github.com/piushvaish)
 
