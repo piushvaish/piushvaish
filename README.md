@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I am Piush Vaish</h2>
-<h4 align="center">I apply Machine Learning techniques to develop applications and ideas mostly around data. This is a collection of various projects I have done to understand the value proposition that Artificial Intelligence can provide.</h4>
+<h4 align="center">I apply machine learning techniques to develop applications and ideas mostly around data. This is a collection of various projects I have done to date to understand the value proposition that Artificial Intelligence can provide.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piushvaish" alt="piushvaish" /> </p>
 
