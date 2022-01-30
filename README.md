@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piushvaish" alt="piushvaish" /> </p>
 
-- 🔭 I’m currently working on applying data science on [e-commerce data](https://github.com/piushvaish/online-retail) for different use cases.
+- 🔭 I’m currently working on applying data science on data from [Instagram](https://github.com/piushvaish/instagram-growth-strategy) for growth strategy.
 
 - 👨‍💻 All of my projects are available at [https://github.com/piushvaish](https://github.com/piushvaish)
 
