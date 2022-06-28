@@ -2,7 +2,7 @@
 <h4 align="center">My passion is developing, deploying, and managing machine learning (ML) models at scale to solve business problems.
 </h4>
 <p align="left"> I guide decision-making based on evidence with data-driven models and insights. I also help businesses achieve their goals, develop opportunities, and improve customer experiences.</p>
-<p align="left">This is a collection of various projects I have done to date to understand the value proposition that Artificial Intelligence can provide.</p>
+<p align="left">The various projects are ones I completed to understand the value proposition of data and technology.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piushvaish" alt="piushvaish" /> </p>
 
