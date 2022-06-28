@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I am Piush Vaish</h2>
+<h2 align="center">Curiosity-Driven Creative Adventurer</h2>
 <h4 align="center">My passion is developing, deploying, and managing machine learning (ML) models at scale to solve business problems.
 </h4>
 <p align="left"> I guide decision-making based on evidence with data-driven models and insights. I also help businesses achieve their goals, develop opportunities, and improve customer experiences.</p>
