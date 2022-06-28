@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piushvaish" alt="piushvaish" /> </p>
 
-- 🔭 I’m currently applying data science principles, machine learning techniques ,and deploying web application for [Cybersecurity](https://github.com/piushvaish/artificial-intelligence-cybersecurity).
+- 🔭 I’m currently applying data science principles,and machine learning techniques for [Cybersecurity](https://github.com/piushvaish/cybersecurity-lessons).
 
 - 👨‍💻 All of my projects are available at [https://github.com/piushvaish](https://github.com/piushvaish)
 
