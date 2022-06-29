@@ -1,5 +1,5 @@
 <h2 align="center">Curiosity-Driven Creative Adventurer</h2>
-<h4 align="center">My passion is developing, deploying, and managing machine learning (ML) models at scale to solve business problems.
+<h4 align="center">My passion is solving problems to achieve business objectives. And I enjoy building relationships to help each other succeed.
 </h4>
 <p align="left"> I guide decision-making based on evidence with data-driven models and insights. I also help businesses achieve their goals, develop opportunities, and improve customer experiences.</p>
 <p align="left">The various projects are ones I completed to understand the value proposition of data and technology.</p>
